@@ -1,8 +1,8 @@
 {
   "name": "memory-clicker-game",
   "version": "0.1.0",
-  "private": true,
   "homepage": "https://cliffpham.github.io/memory-click-game/",
+  "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
